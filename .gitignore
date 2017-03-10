@@ -4,6 +4,8 @@ node_modules
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+*.DS_Store
+
 # User-specific files
 *.suo
 *.user
